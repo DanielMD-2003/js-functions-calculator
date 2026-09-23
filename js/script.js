@@ -7,8 +7,6 @@ function beregnSum(number1, number2) {
     console.log (`${result}`);
 }
 
-beregnDifference (12,35)
-
 // Skriv en funktion, der hedder beregnDifference, og som tager to parametre: number1 og number2
 // Funktionen skal beregne forskellen mellem de to tal og udskrive resultatet i konsollen, fx: "Forskellen mellem 27 og 15 er 12"
 // Kald begge funktioner herunder med to selvvalgte tal, så du selv kan se i konsollen, om dine funktioner virker
