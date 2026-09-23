@@ -18,3 +18,4 @@ function beregnDifference(number1, number2){
         console.log (`${difference}`);
 }
 
+
